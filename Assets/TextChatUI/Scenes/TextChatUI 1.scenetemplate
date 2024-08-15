@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: TextChatUI 1
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2994238059199302534, guid: 645c863201acc4609811ac0a1ac79f2b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 3c433b48d329f44c191773420e07daf7, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: c0fcfd35ed6b23d4cb68cd15217346a9, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 3028dc075ba8c584d9bc7d1e0255e038, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 08d1e03713c4c459c91453d31cdb71af, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 144aa74618b85974a9a50f612c2fa8fd, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 2fd6421f253b4ef1a19526541f9ffc0c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: a6d8672875918467a87088bdfc01835f, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: c204543ac582880458f4fdd8b595b4c9, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 14a96c84dffed4f90814410e3323b05e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 6169747155325858329, guid: f34319e651748443790a75e340241956, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
