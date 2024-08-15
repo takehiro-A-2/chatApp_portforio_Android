@@ -1,4 +1,4 @@
-#Unityで作成した、ChatGPTとLINE風会話アプリが出来るネイティブアプリです。
+# Unityで作成した、ChatGPTとLINE風会話アプリが出来るネイティブアプリ
 
 こちらはAndroid版です。（iOS版も別途開発しています。）
 
